@@ -31,7 +31,9 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@490797166600781824>')
+
+
     }
 });
 
@@ -68,7 +70,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@490797166600781824>')
     }
 });
 
@@ -105,7 +107,7 @@ client3.on('message', message => {
 
 client3.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@490797166600781824>')
     }
 });
 
@@ -142,7 +144,7 @@ client4.on('message', message => {
 
 client4.on('message', message => {
     if(message.content === '-ريب'){
-        message.channel.send('#credits')
+        message.channel.send('#rep <@490797166600781824>')
     }
 });
 
